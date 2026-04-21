@@ -22,7 +22,7 @@ Flag → Review → Decide
 - Flag for further review
 ## Example Insight
 
-![AMS Example](your-image-name.png)
+![AMS Example](Screenshot 2026-04-21 at 10.44.12 AM.png)
 
 Baseline vs current comparison shows increased load with reduced energy.
 
