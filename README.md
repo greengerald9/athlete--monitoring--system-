@@ -22,7 +22,7 @@ Flag → Review → Decide
 - Flag for further review
 ## Example Insight
 
-![AMS Example](Screenshot 2026-04-21 at 10.44.12 AM.png
+![AMS Example](AMS.png)
 
 t
 T
