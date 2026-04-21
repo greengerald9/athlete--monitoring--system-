@@ -27,3 +27,8 @@ Flag → Review → Decide
 Baseline vs current comparison shows increased load with reduced energy.
 
 → Load modification recommended to support player readiness.
+## AI-Supported Insights
+
+Basic AI workflows can be used to summarise trends and flag potential fatigue risks based on monitoring inputs.
+
+This supports decision-making without replacing practitioner judgement.
